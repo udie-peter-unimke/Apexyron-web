@@ -4,6 +4,9 @@ export default function Hero() {
       {/* Decorative Glows */}
 
       <div className="max-w-4xl mx-auto text-center">
+        <p className="text-sm font-semibold tracking-widest text-blue-400 uppercase mb-4">
+          Apexyron Ltd
+        </p>
         <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight  text-white leading-tight">
           Iterate. Innovate. <br />
           <span className="text-gradient">Impact.</span>
